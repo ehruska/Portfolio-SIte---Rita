@@ -1,0 +1,108 @@
+body {
+width:100%;
+	height:100%;
+	position: relative;
+	color:black;
+	background: #4A4A4C;
+}
+/*height 780px
+width 1840px*/
+.div1{
+	height:1080px;
+	width:100%;
+}
+.div2{
+	height:100px;   
+	width:100%;
+	top:72px;
+	left:70px;
+	position:absolute;
+	color: black;
+	font-size: 20px;
+	background: #808285;
+}
+.div3 {
+	padding:20px;
+}
+.header {
+	padding:30px 0 0 30px;
+}
+.table1 td {
+	width:450px;
+	padding: 0px;
+}
+.table2 {
+
+	width:100%;
+}
+table td {
+	float:left;
+	padding:10px;
+}
+.one {
+	font-family: Helvetica, Arial, sans-serif;
+font-size: 23px;
+font-weight: bold;
+line-height: 22px;
+letter-spacing: 0.26pt;
+color: black;
+}
+.two {
+	font-family: Helvetica, Arial, sans-serif;
+font-size: 12px;
+font-weight: normal;
+line-height: 15px;
+}
+.three {
+	margin-top: 5px;
+font-family: Georgia;
+font-size: 10px;
+font-weight: normal;
+font-style: italic;
+line-height: 12px;
+letter-spacing: 0.25pt;
+}
+.four {
+	font-family: Helvetica, Arial, sans-serif;
+	font: 10.5pt sans-serif;
+font-size: 12px;
+
+}
+.five {
+	font-family: Helvetica, Arial, sans-serif;
+font-size: 12px;
+line-height: 15px;
+font-weight: bold;
+text-decoration: none;
+color: black;
+}
+.six {
+	font-family: Helvetica, Arial, sans-serif;
+font-size: 23px;
+font-weight: bold;
+line-height: 22px;
+letter-spacing: 0.26pt;
+color: black;
+margin:0;
+padding: 23px 0 0 30px;
+}
+.seven {
+	font-family: Helvetica, Arial, sans-serif;
+font-size: 23px;
+font-weight: bold;
+line-height: 22px;
+letter-spacing: 0.26pt;
+color: black;
+padding-left:30px;
+}
+.ten {
+	font-family: Helvetica, Arial, sans-serif;
+font-size: 23px;
+font-weight: bold;
+line-height: 22px;
+letter-spacing: 0.26pt;
+color: black;
+}
+.header1 {
+	padding: 60px 0 0 120px;
+}
