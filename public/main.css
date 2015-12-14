@@ -47,6 +47,7 @@ font-weight: bold;
 line-height: 22px;
 letter-spacing: 0.26pt;
 color: black;
+cursor: crosshair;
 }
 .two {
 	font-family: Helvetica, Arial, sans-serif;
@@ -86,6 +87,7 @@ letter-spacing: 0.26pt;
 color: black;
 margin:0;
 padding: 23px 0 0 30px;
+cursor: crosshair;
 }
 .seven {
 	font-family: Helvetica, Arial, sans-serif;
@@ -95,6 +97,7 @@ line-height: 22px;
 letter-spacing: 0.26pt;
 color: black;
 padding-left:30px;
+cursor: crosshair;
 }
 .ten {
 	font-family: Helvetica, Arial, sans-serif;
@@ -103,6 +106,7 @@ font-weight: bold;
 line-height: 22px;
 letter-spacing: 0.26pt;
 color: black;
+cursor: crosshair;
 }
 .header1 {
 	padding: 60px 0 0 120px;
